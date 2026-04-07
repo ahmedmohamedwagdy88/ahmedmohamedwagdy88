@@ -1,5 +1,5 @@
-# Ahmed-Wagdi
-# Hi there 👋 I'm Ahmed Wagdi 
+# Ahmed Wagdy
+# Hi there 👋 I'm Ahmed Wagdy 
 **Data analyst & Ex Customer Experience**
 -
 🎯 Data Analyst passionate about turning data into actionable insights  
