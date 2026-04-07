@@ -52,6 +52,14 @@ Currently expanding my skills in Machine Learning & AI Programming 🚀
 
 🔗 [View Project](https://github.com/ahmedmohamedwagdy88/HR_Case_Study/tree/main)
 
+#### 🚗 BMW Sales Analysis
+
+Analyzed BMW sales data to uncover trends, top models, and regional performance.
+
+Key insight: SUVs and electric vehicles are leading the future of the market.
+
+🔗 [View Project](https://github.com/ahmedmohamedwagdy88/BMW_Sales_Trend)
+
 
 ---
 
