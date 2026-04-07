@@ -66,7 +66,8 @@ Currently expanding my skills in Machine Learning & AI Programming 🚀
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-wagdi-a02b5435b)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201157764849)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohamedwagdi198807@gmail.com)
-**📞 Phone:** +201157764849
+
+-.**📞 Phone Number :** +201157764849
 
 ---
 ### ⚡ GitHub Stats
