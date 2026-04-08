@@ -61,6 +61,14 @@ Key insight: SUVs and electric vehicles are leading the future of the market.
 🔗 [View Project](https://github.com/ahmedmohamedwagdy88/BMW_Sales_Trend)
 
 
+### 📚 Academic Stress Analysis
+
+Analyzed student stress data to explore the impact of peer pressure, academic expectations, and study environments.  
+
+Key insight: Academic pressure from home and disrupted environments are the strongest drivers of stress, while rational coping is the most common strategy.
+
+🔗 [View Project](https://github.com/ahmedmohamedwagdy88/Academic-Stress-Level-Study)
+
 ---
 
 ## 📈 What I'm Working On
